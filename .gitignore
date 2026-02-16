@@ -5,6 +5,8 @@ dist/
 .omc/
 .sisyphus/
 .idea/
+__pycache__/
+*.pyc
 
 # Windows reserved names (prevent accidental creation)
 nul
